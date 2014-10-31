@@ -1,3 +1,6 @@
+# It works! Putting hash curly braces on own line is great. Indentation is a little funky. Everything inside the
+# array should be indented by 2 spaces. Everything inside the hash, same. 
+
 student_info = [
 {
     firstname: "John",
